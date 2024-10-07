@@ -18,7 +18,7 @@ body {
 .item
 {
     display: flex;
-    flex-direction: column; row-gap: 10px;
+    flex-direction: column; row-gap: 10p;
 }
 .titulo {
     text-align: center;
@@ -26,7 +26,7 @@ body {
     font-size: 5rem;
     font-family: "Rubik Mono One", monospace;
     color: rgb(255, 255, 255);
-    filter: brightness(100%);
+    filter: brightness(10 0%);
 }
 .header{
     background-image: url(https://mspost.com.br/wp-content/uploads/2022/08/5-modelos-dos-tenis-vans-que-combinam-com-todos-os-estilos.png);
